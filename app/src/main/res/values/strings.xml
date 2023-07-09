@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="about_app_desc"><b><i>Welcome to BookHub!</i></b>
+        \n\n\t\t<b><i>BookHub</i></b> is an Android application that helps users to view books and add them to favourites.
+        \n\nThey can also see the book\'s description.
+        \n\nThis app was made as my second project during my Internshala Training.
+        <b>\n\n\nMain Concepts Implemented</b>
+        \n\n\t\t1.Activities, Fragments and Lifecycles
+        \n\n\t\t2.Volley Library to fetch data from Internet
+        \n\n\t\t3.Recycler View and its adapter
+        \n\n\t\t4.DBA AsyncTask for storing databases
+    </string>
+    <string name="favourite">Favourite</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="closed_drawer">Close Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourite_fragment">Favourite Fragment</string>
+    <string name="about_app_fragment">About App Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="book_details">Book Details</string>
+    <string name="add_to_favourite">Add to favourite</string>
+    <string name="remove_from_favourites">Remove from favourites</string>
+    <string name="book_name">Book Name</string>
+    <string name="author_name">Author Name</string>
+    <string name="book_price">Book Price</string>
+    <string name="book_rating">4.5</string>
+    <string name="action_sort">Sort</string>
+    <string name="app_purpose">This is an app created for the purpose of learning <b>Mobile Application Development</b> to the level of handling multi-screen, using fragment, involvement of shared preference, using Recycler View as well as using database to store data.</string>
+    <string name="my_signature">-SOUMYARANJAN SAHOO</string>
+</resources>
