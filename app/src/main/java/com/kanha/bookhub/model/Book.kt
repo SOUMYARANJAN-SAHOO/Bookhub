@@ -1,7 +1,5 @@
 package com.kanha.bookhub.model
 
-import com.squareup.picasso.RequestCreator
-
 data class Book(
     val bookId: String,
     val bookName: String,
